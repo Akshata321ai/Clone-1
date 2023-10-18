@@ -21,6 +21,9 @@
     width: 100%;
     background-size: cover;
 }
+#address-1{
+    margin-right: 10px;
+}
 .border{
     border: 2px solid transparent;
 }
@@ -151,6 +154,9 @@
     margin-top: 13px;
     background-size: cover;
 }
+.item p{
+    font-weight: 750;
+}
 .image-box{
     display: flex;
     flex-wrap: wrap;
@@ -266,5 +272,6 @@ ul{
 .foot-panel-4 a{
     margin-left: 15px;
 }
+
 
     
